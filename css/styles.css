@@ -70,10 +70,10 @@ header {position:absolute; left:0; top:0; right:0}
     header {padding:0 0 13px 0; border-bottom:2px solid rgba(255, 255, 255, .1)}
 }
 
-.logo {float:left; width:250px; height:90px; margin:29px 0 0 0; background:url(../images/logo.png)}
+.logo {float:left; width:250px; height:90px; margin:29px 0 0 0; background:url(../images/logo.svg) no-repeat; background-size:100%}
 
 @media screen and (max-width:1149px) {
-    .logo {width:170px; height:61px; margin:15px 0 0 0; background:url(../images/logo-mobile.png)}
+    .logo {width:170px; height:61px; margin:15px 0 0 0}
 }
 
 .header-phone {float:left; margin:0 0 0 146px; padding:53px 0 0 35px; background:url(../images/header-phone.png) no-repeat left 60px}
